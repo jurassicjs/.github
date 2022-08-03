@@ -10,7 +10,7 @@
 
 
 <a href="https://discord.gg/9XXEvE43pG" target="_blank">
-<img src="images/discord_banner.png"  width="100%" height="auto" alt=youtube style="margin-top: 5px; padding-top: 20px" >
+<img src="https://raw.githubusercontent.com/jurassicjs/.github/main/profile/images/discord_banner.png"  width="100%" height="auto" alt=youtube style="margin-top: 5px; padding-top: 20px" >
 </a> 
 <a href="https://discord.gg/9XXEvE43pG" target="_blank">Discord Join Link</a>   
 
@@ -38,7 +38,7 @@
 </a>   
 
 <a href="https://www.youtube.com/channel/UCFDF_U_uoKc6MhIZPZKo5CA" target="_blank">
-<img src="images/discord_logo.svg"  width="100" height="100" alt=youtube" >
+<img src="https://raw.githubusercontent.com/jurassicjs/.github/main/profile/images/discord_logo.svg"  width="100" height="100" alt=youtube" >
 </a>   
 
 

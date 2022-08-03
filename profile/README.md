@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jurassicjs/.github/main/profile/images/logo.jpeg"  width="100%" height="auto" alt=youtube style="margin-top: 5px; padding-top: 20px" >
+<img src="https://raw.githubusercontent.com/jurassicjs/.github/main/profile/images/logo.png"  width="100%" height="auto" alt=youtube style="margin-top: 5px; padding-top: 20px" >
 
 
 

@@ -1,5 +1,5 @@
 
-![](images/Jurassic%20Js-logos.jpeg)
+![](../images/Jurassic%20Js-logos.jpeg)
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-<a href="https://discord.gg/9XXEvE43pG" target="_blank">![](images/discord_banner.png)</a> 
+<a href="https://discord.gg/9XXEvE43pG" target="_blank">![](../images/discord_banner.png)</a> 
 <a href="https://discord.gg/9XXEvE43pG" target="_blank">Discord Join Link</a>   
 
 
@@ -34,7 +34,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   
 
-<a href="https://discord.gg/9XXEvE43pG" target="_blank">![](images/discord_logo.svg)</a>  
+<a href="https://discord.gg/9XXEvE43pG" target="_blank">![](../images/discord_logo.svg)</a>  
 
 </div>  
   
